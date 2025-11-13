@@ -58,6 +58,8 @@ if __name__ == "__main__":
     for result in cursor:
         print(result)
 
+        
+
     
 
 
